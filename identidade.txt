@@ -1,2 +1,4 @@
 Nome: Fernando Marques
 Cpf: 000.000.000-00
+Idade: 40 anos
+Altura: 1.70
